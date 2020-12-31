@@ -1,0 +1,5 @@
+DirectoryIndex index.html index.php index.htm parking-page.html
+<IfModule mod_suphp.c>
+suPHP_ConfigPath /home/liaoksdv/public_html
+</IfModule>
+
